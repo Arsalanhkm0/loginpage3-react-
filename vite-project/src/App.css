@@ -20,14 +20,13 @@ body{
 }
 
 .containerx {
-  /* Basic dimensions and centering */
+
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 
-  /* Dark mode colors and gradient */
   background: #121212; 
   background: linear-gradient(
     135deg,
